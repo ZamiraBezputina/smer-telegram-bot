@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seraphic-disk-427019-u9",
+  "private_key_id": "33826b5b19414716c30dd5196049a080bf8636b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfEDdPgSPnoln8\nIfnZ6gMlm397+xIm+xRpt4sbrW7CjiEmCe7lF6QUi55xZ3+dhNy5yb/nXQX8cBf9\nql+pyv+ydO/Nwdy5Vwy4Z7TE7GePF+gibdQd2ozzoAc9MwCXdnhXq94kZFZb4NJy\nqe77aV6tchGPGnFEYufz0UZH+8TiSm3k54jG/McN1APzQ+DqOw5FJIsjpmOHFVRi\n6xuh9yFokBcSlTR9vvltYFz/nJaN4AMl2YfnWq+pj8zoGzFDAwi7IezUVM+Lw+28\n8MWlVnUdfHFrAFaoj2jJclSzRlXQGn4rb1WUZYvO1i9Tt2MJDzTjea3CCiCy8ui5\n4wrzyqzbAgMBAAECggEAK/wVd2g8EAEOhhC1IQO7dApQUe3nIp1akzM8hd5LGwSn\nePfVNkd3yXCkUzKuENZdHQkDhoxsK9apY61Zv7+RPn1klI6vpRbDvzh6PdwrdN/F\nAsRBHDJDuNi/N7ajSr7pX0D48DJIySZdu3RvT9le43KAFYTX3nPFNWBg4WXnFzXT\nHCilAlc/6vBaj+J4EuZxxK1mQae1Aj4hrjI/LPxWvjvVM/5l/Nf9dBmntxTfACnm\nJGMoCVpMxVGZnw3hBhk0rDwO9m/HP/xDfDestDQpcEWmnT3znsH4/a2/McTSkphl\nRYuPri7oiaDstwh4nEgre/v1U/Y/qKcjFccqqbAb6QKBgQDKyHd73l1U/LHkise4\nEV19Y+x6cZCtl5bSNgqqJiE+c6tgJjayZ/6OJeVeyafdUqXnOpL0rxQYlWacb2zY\n890CIILjNH0uXgGny+VFMy11f3Jylain1/wV0/iqfBe3H/qva5hqke2xtfUlMMlj\nTPxcP7YyXaDOVeLmxY6GM9nqSQKBgQDIzokqCz/QvL9NuzT4w4ccpgrepzjsuWkU\njy5iwtU/ZY4Q5uE3ktE3xGVY7qVwksZbB8VWKrBSeUb5nE6Y5NqCzvZR5L0nmU7B\n7v6QOCypht753pu5HeSv0lcfEPpVm5tHTy3lbSd4rRVblorBDbuJRSXb1QfSYCF6\nbhCxZ4V+AwKBgDwjb6wAqlVGC8vnjIt+Ouew9rTpcSrKRiRZepgzbrCCxVRigN4w\nEUI+4uNVkr8Ef8cvi92c/qy7wg6qzPEagXTcB3UyX92ca4lD4t6+6sBp55sr3zTH\nzS78CkclPjNE/KeBlVYlqQSHHgjFizQz5LPHAVW2hrYqqnweIsKSJhJhAoGBAJSC\nk1UB7tdc0IsXeizExuc8MevLdsE0uu9WmXK3L2lsnS4I4uXr8kmxOVcVYEuqcYKf\nc6Wveqn0QbaXkFVpY+W8VNXqOq7PpjytmZ1lvjo+oifgKAE3h4s1H/O85bdsluGd\nQI9eNAP+1j3fT41Jr7ns5vv3SIqhSAE456Wcr1CrAoGBAJ5diZcvRkOFfsqZDfHD\nStNunQ8kfBo80W4eSluAZIKvK4f9HFoE+bJCna1aIq2RDKmmB0Q0+c3ok7TBW2Gz\nUB2ehj7dBQUjARXyWurruts5nCTj3SXGjh1cnzDB4AAd4o0P7ilGDJn3ToWrxicX\noOg9gSX4ruk25+gLTj/viSQj\n-----END PRIVATE KEY-----\n",
+  "client_email": "srem-bot-account@seraphic-disk-427019-u9.iam.gserviceaccount.com",
+  "client_id": "114595330143854305221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/srem-bot-account%40seraphic-disk-427019-u9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
